@@ -1,0 +1,27 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "The Odin Project - Testing Practice exercise, from the Javascript course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LalaineHines/Testing.git"
+  },
+  "keywords": [],
+  "author": "Lalaine Hines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LalaineHines/Testing"
+  },
+  "homepage": "https://github.com/LalaineHines/Testing#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.0",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
